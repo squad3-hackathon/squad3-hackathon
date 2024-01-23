@@ -1,16 +1,18 @@
-### Hi there 👋
+# 🍊 Orange Portfólio - Squad 3 🍊
 
-<!--
-**squad3-hackathon/squad3-hackathon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projeto do Hackathon do Programa de Formação FCamara + Orange Juice {V0.5}
 
-Here are some ideas to get you started:
+### Problemática
+- O desafio consiste em desenvolver uma aplicação navegável e responsiva, denominada Orange Portfólio, que permitirá aos usuários cadastrar e exibir projetos desenvolvidos. A interface está pronta e agora precisamos de pessoas desenvolvedoras para que esse projeto saia do papel e seja funcional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Solução proposta & tecnologias
+
+#### Como rodar o projeto
+
+#### Links úteis
+
+### Equipe da Squad-3
+- Alequissandra Rayane
+- Felippe Ferraz
+- João Vítor
+- Gabriel Lima
